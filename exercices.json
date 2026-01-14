@@ -17,4 +17,10 @@
     "categorie": "hanches",
     "description": "Tourner autour des hanches dans un mouvement régulier."
   }
+  {
+    "id": 4,
+    "nom": "Alan pomme",
+    "categorie": "humain",
+    "description": "Savourer avec envie une pomme avec une petit ver dedant"
+  }
 ]
