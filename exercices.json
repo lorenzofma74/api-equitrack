@@ -19,8 +19,92 @@
   },
   {
     "id": 4,
-    "nom": "Alan pomme",
-    "categorie": "humain",
-    "description": "Savourer avec envie une pomme avec une petit ver dedant"
+    "nom": "Serpentine 3 boucles",
+    "categorie": "courbes",
+    "description": "Enchaîner 3 demi-cercles en changeant d'incurvation à chaque fois."
+  },
+  {
+    "id": 5,
+    "nom": "Transition Trot-Arrêt",
+    "categorie": "transitions",
+    "description": "Demander l'arrêt complet depuis le trot sans passer par le pas."
+  },
+  {
+    "id": 6,
+    "nom": "Saut de puce",
+    "categorie": "obstacle",
+    "description": "Enchaîner de petits obstacles rapprochés (3m) sans foulée entre eux."
+  },
+  {
+    "id": 7,
+    "nom": "Mise en selle (sans étriers)",
+    "categorie": "position",
+    "description": "Travailler au trot assis sans étriers pour améliorer l'assiette."
+  },
+  {
+    "id": 8,
+    "nom": "Reculer",
+    "categorie": "mouvement",
+    "description": "Faire reculer le cheval de 3 ou 4 pas droits, puis repartir en avant."
+  },
+  {
+    "id": 9,
+    "nom": "Extension d'encolure",
+    "categorie": "détente",
+    "description": "Laisser le cheval étendre son bout du nez vers le bas et l'avant."
+  },
+  {
+    "id": 10,
+    "nom": "Cavalettis au trot",
+    "categorie": "cadence",
+    "description": "Passer une série de barres au sol au trot pour régulariser l'allure."
+  },
+  {
+    "id": 11,
+    "nom": "Contre-galop",
+    "categorie": "équilibre",
+    "description": "Galoper sur le pied gauche à main droite (ou inversement) pour l'équilibre."
+  },
+  {
+    "id": 12,
+    "nom": "Demi-tour autour des épaules",
+    "categorie": "latéral",
+    "description": "Les épaules pivotent sur place, les hanches décrivent un cercle autour."
+  },
+  {
+    "id": 13,
+    "nom": "Ligne courbe au galop",
+    "categorie": "trajectoire",
+    "description": "Quitter la piste au galop pour revenir à la piste plus loin (ex: 5m)."
+  },
+  {
+    "id": 14,
+    "nom": "Départ au galop du pas",
+    "categorie": "impulsion",
+    "description": "Demander le départ au galop directement depuis le pas, sans trotter."
+  },
+  {
+    "id": 15,
+    "nom": "Huit de chiffre",
+    "categorie": "précision",
+    "description": "Enchaîner deux cercles (voltes) tangents en forme de 8."
+  },
+  {
+    "id": 16,
+    "nom": "Barre en V",
+    "categorie": "obstacle",
+    "description": "Sauter au centre d'une barre posée sur deux croisillons en V."
+  },
+  {
+    "id": 17,
+    "nom": "Arrêt et immobilité",
+    "categorie": "mental",
+    "description": "Rester à l'arrêt rênes longues pendant 1 minute dans le calme."
+  },
+  {
+    "id": 18,
+    "nom": "Trot allongé",
+    "categorie": "amplitude",
+    "description": "Demander au cheval d'agrandir ses foulées sur la diagonale."
   }
 ]
